@@ -1,0 +1,9 @@
+transaction_id,date,amount,type,category_description,description,balance_left
+1,2025-04-23,0.01,Expense,Food & Dining,,-0.01
+2,2025-04-23,0.02,Expense,Food & Dining,,-0.03
+3,2025-04-23,30.0,Income,Other,,29.97
+4,2025-04-23,30.0,Income,Other,,59.97
+5,2025-04-23,30.0,Income,Other,,89.97
+6,2025-04-23,30.0,Expense,Shopping,,59.97
+7,2025-04-23,30.0,Expense,Shopping,,29.97
+8,2025-06-14,100.0,Income,Salary,nothing,129.97
